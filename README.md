@@ -1,4 +1,7 @@
-# BestStarter
+<div align="center">
+  <h1>BestStarter</h1>
+  <img src="https://github.com/TaiOGU/beststarter/blob/main/assets/images/beststarter.png?raw=true" alt="BestStarter Image"/>
+</div>
 
 ## Features
 ↳ Sitewide configured layout
