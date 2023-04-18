@@ -9,7 +9,7 @@
 > default.vue
 
 ↳ TailwindCSS configured
-> Quickly get started with TailwindCSS
+> Quickly get started with TailwindCSS & DaisyUI
 
 ↳ Pages
 > pages/index.vue
