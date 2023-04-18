@@ -1,4 +1,7 @@
+
 <div align="center">
+  <img src="https://github.com/TaiOGU/images/blob/main/Early%20development.png" alt="Early Development Warning"/>
+  <hr>
   <h1>BestStarter</h1>
   <img src="https://github.com/TaiOGU/beststarter/blob/main/assets/images/beststarter.png?raw=true" alt="BestStarter Image"/>
 </div>
