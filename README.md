@@ -1,8 +1,22 @@
-# Nuxt 3 Minimal Starter
+# BestStarter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Features
+↳ Sitewide configured layout
+> default.vue
+
+↳ TailwindCSS configured
+> Quickly get started with TailwindCSS
+
+↳ Pages
+> pages/index.vue
 
 ## Setup
+
+Clone the project
+
+```bash
+git clone https://github.com/taiogu/beststarter
+```
 
 Make sure to install the dependencies:
 
@@ -13,8 +27,6 @@ yarn install
 # npm
 npm install
 
-# pnpm
-pnpm install
 ```
 
 ## Development Server
@@ -22,6 +34,10 @@ pnpm install
 Start the development server on `http://localhost:3000`
 
 ```bash
+# yarn
+yarn dev
+
+# npm
 npm run dev
 ```
 
@@ -30,13 +46,13 @@ npm run dev
 Build the application for production:
 
 ```bash
+# yarn
+yarn build
+
+# npm
 npm run build
 ```
 
-Locally preview production build:
+Thanks for viewing the project, good luck with use!
 
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+**Please ⭐ the project, I'd very much appreciate it!**
